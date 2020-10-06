@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Permission As signment</string>
+    <string name="permission_message">The app need to view important data!</string>
+</resources>
